@@ -1,0 +1,104 @@
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+.navbar {
+    background-color: transparent;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+
+#titulo {
+    color: gray;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/*seccion quienes somos*/
+
+.presentacion {
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+
+#seccion-quienes-somos {
+    background-color: black;
+    color: white;
+}
+
+
+#quienes-somos {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+
+.caja {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.icono {
+    background-color: #17A2B8;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/*fin seccion quienes somos*/
+
+/*Seccion destacados*/
+
+#destacados {
+    background-color: black;
+    padding: 40px;
+}
+
+.carta {
+    border: none;
+}
+
+.carta img {
+    height: 200px;
+}
+
+.fondo-azul {
+    background-color: #17A2B8;
+    color: white;
+}
+/*fin seccion destacados*/
+
+/*seccion contacto*/
+
+.contacto-section {
+    background-color: black;
+    color: white;
+    padding: 40px;
+}
+
+.contacto-section button {
+    color: white;
+    background-color: #17A2B8;
+}
+/*fn seccion contacto*/
+
+footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+    background-color: #17A2B8;
+}
+
+
+
+
