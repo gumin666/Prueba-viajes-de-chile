@@ -9,8 +9,7 @@ html {
     scroll-behavior: smooth;
 }
 .navbar {
-    background-color: transparent;
-    position: absolute;
+    background-color: transparent;  
     width: 100%;
     z-index: 10;
     padding-left: 4rem;
@@ -19,19 +18,11 @@ html {
 
 /*seccion quienes somos*/
 
-
 .presentacion {
     background-color: black;
     color: white;
     padding: 30px;
 }
-
-
-#seccion-quienes-somos {
-    background-color: black;
-    color: white;
-}
-
 
 #quienes-somos {
     padding-top: 4rem;
