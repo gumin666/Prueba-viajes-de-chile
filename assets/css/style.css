@@ -1,5 +1,5 @@
 
-
+/*agregué la fuente a todo el body*/
 body {
     font-family: "Raleway", sans-serif;
 
@@ -8,6 +8,7 @@ body {
 html {
     scroll-behavior: smooth;
 }
+
 .navbar {
     width: 100%;
     z-index: 10;
@@ -15,6 +16,9 @@ html {
     padding-right: 4rem;
 }
 
+#hamburguesa {
+    font-weight: 300;
+}
 /*seccion quienes somos*/
 
 .presentacion {
@@ -32,6 +36,8 @@ html {
 .caja {
     text-align: center;
     margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: 300;
 }
 
 .icono {
@@ -51,16 +57,15 @@ html {
 
 .card {
     border: none;
+    font-weight: 300;
 }
 
-.carta img {
-    height: 200px;
-}
 
 .fondo-azul {
     background-color: #17A2B8;
     color: white;
 }
+
 /*fin seccion destacados*/
 
 /*seccion contacto*/
@@ -75,20 +80,13 @@ html {
     color: white;
     background-color: #17A2B8;
 }
+
 /*fn seccion contacto*/
 
 footer {
-  padding-top: 20px;
-  padding-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     background-color: #17A2B8;
     text-decoration: none;
     color: white;
 }
-
-footer a: {
-      text-decoration: none;
-    color: white;}
-
-
-
-
