@@ -5,20 +5,23 @@ body {
 
 }
 
-html {
-    scroll-behavior: smooth;
-}
+
 
 .navbar {
     width: 100%;
     z-index: 10;
     padding-left: 4rem;
     padding-right: 4rem;
+  
 }
 
-#hamburguesa {
-    font-weight: 300;
+ul {
+    text-align: right;
+    font-weight: 500;
 }
+
+
+
 /*seccion quienes somos*/
 
 .presentacion {
